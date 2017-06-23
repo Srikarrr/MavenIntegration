@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34569" started-at="2017-06-23T18:32:30Z" finished-at="2017-06-23T18:33:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34569" started-at="2017-06-23T18:32:30Z" finished-at="2017-06-23T18:33:04Z">
+      <class name="sauce.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:sauce.NewTest@23a2f9]" name="beforeTest" is-config="true" duration-ms="24969" started-at="2017-06-24T00:02:30Z" finished-at="2017-06-24T00:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:sauce.NewTest@23a2f9]" name="testEasy" duration-ms="6379" started-at="2017-06-24T00:02:55Z" finished-at="2017-06-24T00:03:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:sauce.NewTest@23a2f9]" name="afterTest" is-config="true" duration-ms="3194" started-at="2017-06-24T00:03:01Z" finished-at="2017-06-24T00:03:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- sauce.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
